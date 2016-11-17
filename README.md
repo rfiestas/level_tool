@@ -11,6 +11,7 @@ The Sense HAT has an 8×8 RGB LED matrix, a five-button joystick and includes th
 - Temperature
 - Barometric pressure
 - Humidity
+
 The IMU (inertial measurement unit) sensor is a combination of three sensors, each with an x, y and z axis.
 
 On this script i use IMU sensor as a level tool, it can be used to indicate how parallel (level) a surface is relative to the earth.
